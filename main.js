@@ -30,7 +30,7 @@ let capitalFinalPF =0;
 
 
 /* Inicio de Programa */
-alert("¡Bienvenido! Comparemos los rendimientos obtenidos en Plazo Fijo e inverion en Billetera Virtual ");
+alert("¡Bienvenido! Comparemos los rendimientos obtenidos en Plazo Fijo e inversion en Billetera Virtual ");
 
 
 while(nuevaComparacion){
