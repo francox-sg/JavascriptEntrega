@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+header,footer{
+    height: 10vh;
+    background-color: lightgreen;
+}
+h1,h2{
+    text-align: center;
+}
+
+main{
+    height: 80vh;
+    background-color: lightblue;
+    text-align: center;
+}
